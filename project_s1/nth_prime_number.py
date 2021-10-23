@@ -1,3 +1,4 @@
+#returns nth prime number.
 a = int(input('enter number : '))
 i = 0
 num = 1
